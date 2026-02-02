@@ -80,7 +80,7 @@ maintaining the integrity and interpretability required in legal domains.
 ## Patent Document
 
 📄 **Published Patent PDF:**  
-[Patent_Published_Vidhi_Legal_document_analysis.pdf](Patent_Published_Vidhi_Legal_document_analysis.pdf)
+[Patent_Legal document analysis.pdf](Patent_Legal%20document%20analysis.pdf)
 
 This document corresponds to the officially published patent application and should be treated
 as the authoritative reference.
